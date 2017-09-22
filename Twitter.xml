@@ -4,10 +4,10 @@
   <Author Name="Niels Bosma" Url="https://se.linkedin.com/in/bosmaniels"/>
 
   <Settings HelpText="What's this?" HelpUrl="http://seotoolsforexcel.com/twitter/">
-    <Text Id="OAuthToken" Title="OAuth Token" Required="true" HelpUrl="http://seotoolsforexcel.com/twitter/"/>
-    <Text Id="OAuthTokenSecret" Title="OAuth Token Secret" Required="true"/>
-    <Text Id="OAuthConsumerKey" Title="OAuth Consumer Key" Required="true"/>
-    <Text Id="OAuthConsumerSecret" Title="OAuth Consumer Secret" Required="true"/>
+    <Text Id="OAuthToken" Title="OAuth Token" Required="false" HelpUrl="http://seotoolsforexcel.com/twitter/"/>
+    <Text Id="OAuthTokenSecret" Title="OAuth Token Secret" Required="false"/>
+    <Text Id="OAuthConsumerKey" Title="OAuth Consumer Key" Required="false"/>
+    <Text Id="OAuthConsumerSecret" Title="OAuth Consumer Secret" Required="false"/>
   </Settings>
 
   <Resources>
